@@ -1,2 +1,2 @@
 # FlightTracker
-Track flight deals
+Track flight deals through Amadeus and compare prices through a google sheet.
